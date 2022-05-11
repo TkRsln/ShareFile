@@ -5,5 +5,7 @@
 
 ▶ Multi threaded
 
+▶ Easy coded
+
 ---------------------------------------------------------
-Application uses UDP protocol for broadcasting the files that you share, TCP for sending file.
+Application uses UDP protocol for broadcasting the chunks of each files that you want to share over local network, TCP for sending all chunks.
