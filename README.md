@@ -9,3 +9,5 @@
 
 ---------------------------------------------------------
 Application uses UDP protocol for broadcasting the chunks of each files that you want to share over local network, TCP for sending all chunks.
+
+![alt text](https://raw.githubusercontent.com/TkRsln/ShareFile/main/FileShare.png)
